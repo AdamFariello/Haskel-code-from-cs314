@@ -2,3 +2,7 @@
 hw4
 hw5
 hw6
+
+#file types to ignore
+*.pdf
+*.png

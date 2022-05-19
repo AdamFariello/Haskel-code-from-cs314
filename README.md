@@ -1,8 +1,5 @@
 # Rutgers-cs314-code
 ---
-## Languages covered
-* Haskell
-* Prolog
 
 ## Assignments
 ### Assignment 1 (Haskell)	
